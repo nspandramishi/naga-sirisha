@@ -1,10 +1,9 @@
 ---
 layout: post
-title: This is my poem
 ---
 # Heights and Depths
 
------------
+---
 
 The heights of your sorrow,
 little do they know.
