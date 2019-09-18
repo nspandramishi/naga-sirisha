@@ -1,4 +1,4 @@
-#
+
 # This file contains configuration flags to customize your site
 #
 
@@ -9,7 +9,7 @@ name: Pandramishi Naga Sirisha
 description: Data Engineer and student at UBC in the MDS program
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:https://avatars.github.ubc.ca/u/1926?s=400&u=120e0852747c7a63d9fccef0a2564ec4e4531221
+avatar: https://avatars.github.ubc.ca/u/1926?s=400&u=120e0852747c7a63d9fccef0a2564ec4e4531221
 #
 # Flags below are optional
 #
